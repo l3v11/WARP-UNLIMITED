@@ -21,3 +21,7 @@ Go to *Settings > Advanced > Diagnostics* and copy the **ID** under *CLIENT CONF
 ### Q. Why the WARP+ quota is still showing 0 GB?
 
 Go to *Settings > Advanced > Connection options* and press on **Reset security keys**
+
+
+#### Credits
+- [ALI-B](https://github.com/ALIILAPRO)
